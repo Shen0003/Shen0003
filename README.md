@@ -4,19 +4,7 @@
 <img width="100%" src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
-🌟 About Me - The Developer Behind the Code
-<img align="right" alt="Coding GIF" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-javascriptconst developer = {
-    name: "Your Name",
-    role: "Full Stack Developer",
-    location: "🌍 Earth",
-    languages: ["JavaScript", "Python", "TypeScript", "Java"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm proud of it!",
-    lifePhilosophy: "Code is poetry written for machines to understand"
-};
 
-console.log("Welcome to my profile! 🎉");
 
 🔭 Currently crafting [Your Awesome Project]
 🌱 Mastering [Latest Technology]
