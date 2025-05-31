@@ -18,7 +18,7 @@
     ⚡ Fun fact: I once spent 6 hours debugging only to find a missing semicolon
   </li>
 </ul>
-<hl>
+<hl></hl>
 <div align="center">
 <a href="mailto:yongshen8@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
