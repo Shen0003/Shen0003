@@ -6,7 +6,7 @@
 
 <ul>
   <li>
-    🌱 Mastering Mobile App Dev & Computer Vision & Deep Learning
+    🌱 Mastering Mobile App Dev & Deep Learning & Computer Vision 
   </li>
   <li>
     👯 Open to collaborate on innovative projects
