@@ -5,9 +5,8 @@
 
 
 
-🔭 Currently crafting [Your Awesome Project]
-🌱 Mastering [Latest Technology]
+🌱 Mastering [Mobile App Dev & Computer Vision & Deep Learning]
 👯 Open to collaborate on innovative projects
 💬 Let's talk about Tech, Coffee, and Code
-📫 Reach me: [your.email@example.com]
+📫 Reach me: [yongshen8@gmail.com]
 ⚡ Fun fact: I once spent 6 hours debugging only to find a missing semicolon
