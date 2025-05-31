@@ -8,5 +8,8 @@
 🌱 Mastering Mobile App Dev & Computer Vision & Deep Learning
 👯 Open to collaborate on innovative projects
 💬 Let's talk about Tech, Coffee, and Code
-📫 Reach me: yongshen8@gmail.com
 ⚡ Fun fact: I once spent 6 hours debugging only to find a missing semicolon
+
+<a href="mailto:yongshen8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
